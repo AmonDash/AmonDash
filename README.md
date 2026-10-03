@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi! I'm Alberto Delgado A. 👋
 
-<!--
-**AmonDash/AmonDash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mechanical Design Engineer | Data Analyst | CAD Automation Specialist**
 
-Here are some ideas to get you started:
+Mechanical Engineer specializing in 3D CAD design, process automation through macros and scripts (C#, Python), and data analytics (SQL, Python, Power BI).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technologies & Tools
+
+- **CAD Design & Automation:** Solid Edge, Solid Edge API, C#, Visual Basic, Blender.
+- **Data Analytics:** Python (Pandas, Seaborn), SQL Server, PostgreSQL, Power BI, Advanced Excel.
+- **Version Control & Environment:** Git, GitHub, Google Colab.
+
+---
+
+### 🚀 Featured Projects
+
+- 📐 **[SolidEdge CAD Macros](./SolidEdge):** Collection of automations and macros designed to streamline modeling workflows and drawing creation.
+- 📊 **[Probability & Statistics / Data Analytics](./PYEF):** Statistical analysis and data processing projects built with Python.
+
+---
+
+📬 **Contact & Networking:**
+- LinkedIn: www.linkedin.com/in/alberto-delgado-arciniegas-d94
